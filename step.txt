@@ -1,0 +1,22 @@
+virtual environment setup i.e venv
+
+step-1 
+create a box.
+command - python -m venv venv 
+
+step-2
+inside a box
+command - Scripts\activate
+2nd command - source venv/bin/activate
+
+step-3
+install django.
+
+step-4
+do verification.
+command - python -m django --version
+
+step-5 
+do activate.
+command - source venv/bin/activate
+
